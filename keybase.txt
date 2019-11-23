@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/w8term3lon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fuwafuwa.wtf
+  * I am w8term3lon (https://keybase.io/w8term3lon) on keybase.
+  * I have a public key ASBBROKbvgzVgmDeUTgjgKbbyGij0cZvpschLLKDM7oZawo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101aec458aeaac3ef3d18d9802eb9bb94f8974df3fd3557cda864ded0e2439e98dc0a",
+      "host": "keybase.io",
+      "kid": "01204144e29bbe0cd58260de51382380a6dbc868a3d1c66fa6c7212cb28333ba196b0a",
+      "uid": "fb3366c5db1280435d934524c95cf119",
+      "username": "w8term3lon"
+    },
+    "merkle_root": {
+      "ctime": 1574463877,
+      "hash": "9bb9cdfb07bd7c8f152b0c0261350bfea552bee9f951c7b8ee183564d694f23f4f1941faebd59853be304107ce6362b4e5db6e7fbbd580a4d1fb155cebb80695",
+      "hash_meta": "e7e2e26d391ebea8bd10dfdf1da8daf703ef7e68e678648706e4b7e7f6fed0f3",
+      "seqno": 10558708
+    },
+    "service": {
+      "entropy": "tItWK4fqNZmsztvE5eauJpY6",
+      "hostname": "fuwafuwa.wtf",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574463900,
+  "expire_in": 504576000,
+  "prev": "eb307a7b453a9b8d31de01b9fdfdf05c419c47689ff1ed73e2ea9b9dffb09399",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQUTim74M1YJg3lE4I4Cm28hoo9HGb6bHISyygzO6GWsKp3BheWxvYWTESpcCOMQg6zB6e0U6m40x3gG5/f3wXEGcR2if8e1z4uqbnf+wk5nEIFgP/d66CZz8iVBxAsUHcU9EuJxz/moLw7zbsk64yVmGAgHCo3NpZ8RAnEbWpdyhxVORu0V0c7wR5lb9AEpF5pRw2l3dRqWVj33zfBkW8LGyqRyleQqAnW+Qm9RTgHu7gE1l6hP6UYZxB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINYXDZEFrRa9HuzBiVqA4gcrbTATLraJrKFcRXrCEouko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/w8term3lon
+
+==================================================================
