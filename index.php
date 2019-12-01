@@ -1,9 +1,9 @@
 <?php
     // USED TO GRAB RANDOM VIDEO
-$file = "random.txt";
+$file = "randomjpop.txt";
     // Convert the text fle into array and get text of each line in each array index
 $file_arr = file($file);
-    // Total number of linesin file
+    // Total number of lines in file
 $num_lines = count($file_arr);
     // Getting the last array index number by subtracting 1 as the array index starts from 0
 $last_arr_index = $num_lines - 1;
@@ -35,13 +35,14 @@ $ytdata = json_decode($json);
 
 
         <!-- TRANSPARENT IMAGE LAYER USED TO DIRECT TO AL PROFILE -->
-<a href="https://anilist.co/user/W8TERM3LON/" target="_blank"><img src = "https://fuwafuwa.wtf/transparent.png" style="border: none; width: 100%; height: 100%" alt="W8TERM3LON'S AniList">
+<a href="https://fuwafuwa.wtf/AniList" target="_blank"><img src = "https://fuwafuwa.wtf/transparent.png" style="border: none; width: 100%; height: 100%" alt="W8TERM3LON'S AniList">
 
 
                 <!-- VIDEO LAYER (BACKGROUND) -->
 <div class="video-background">
     <div class="video-foreground">
-      <iframe src="<?php echo $rand_vid; ?>?version=3&controls=0&rel=0&autoplay=1&mute=0&loop=1&playlist=<?php echo $vid; ?> frameborder="0" allowfullscreen>"</iframe>
+                        <!--  -->
+      <iframe src="https://www.youtube-nocookie.com/embed/<?php echo $rand_vid; ?>?version=3&controls=0&rel=0&autoplay=1&mute=0&loop=1&playlist=<?php echo $vid; ?> frameborder="0" allowfullscreen>"</iframe>
     </div>
   </div>
 <style>
@@ -76,5 +77,5 @@ $ytdata = json_decode($json);
 .vid-info .acronym { display: none; }
 }
 </style>
-
+                              <!-- Version: 2.BETA -->
             <!-- THANKS TO MORIMASA ON ANILIST FOR HELPING -->

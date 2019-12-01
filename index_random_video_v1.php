@@ -18,7 +18,7 @@ $rand_vid = $file_arr[$rand_index];
 
 <div class="video-background">
     <div class="video-foreground">
-      <iframe src="<?php echo $rand_vid; ?>?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&mute=0&loop=1 allow="autoplay" frameborder="0" allowfullscreen>"</iframe>
+      <iframe src="https://www.youtube-nocookie.com/embed/<?php echo $rand_vid; ?>?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&mute=0&loop=1 allow="autoplay" frameborder="0" allowfullscreen>"</iframe>
     </div>
   </div>
 <style>
